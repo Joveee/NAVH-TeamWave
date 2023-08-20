@@ -11,6 +11,7 @@ Join us in revolutionizing how kids learn and interact with technology. Let's sh
 # Bounty submitted for:
 
 # Problem we address:
+In today's digital age, kids are exposed to technology from an early age. But as parents, we worry about their safety online. With the rising concerns of hacks, scams, and the complexities of Web 3, how can we ensure our children can confidently explore this world without falling into digital traps?
 
 # Future Plans:
 
