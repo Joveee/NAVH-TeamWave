@@ -5,13 +5,15 @@ For Everybody; Designed for Children: PLYGRND is an all-in-one platform that cat
 
 Join us in revolutionizing how kids learn and interact with technology. Let's shape a generation of savvy Web 3 navigators, where learning is play and exploration is secure. Welcome to PLYGRND, where digital adventures await, and mistakes are a stepping stone to success!
 
+https://drive.google.com/file/d/1gzLYdOfoJ20UmM1ksU9sGpxpwENrP_xD/view?usp=drivesdk
+
 # Team
 
 - Jovany
 - Mika
 - Parasanna
 
-# Bounty submitted for:
+# Bounty submitted for: Make a Dapp that slaps
 
 # Problem we address:
 In today's digital age, kids are exposed to technology from an early age. But as parents, we worry about their safety online. With the rising concerns of hacks, scams, and the complexities of Web 3, how can we ensure our children can confidently explore this world without falling into digital traps?
